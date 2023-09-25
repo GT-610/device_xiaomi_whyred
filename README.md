@@ -2,6 +2,10 @@
 
 The Redmi Note 5 Pro (codenamed _"whyred"_) are high-end mid-range smartphones from Xiaomi announced and released in March 2018.
 
+This repo is a fork of ![datnerdguy's device tree for Spark OS](https://github.com/datnerdguy/device_xiaomi_whyred), with commits to port it to ArrowOS 13.1.
+
+**This device tree is still WIP. I don't know what will happen.**
+
 ## Device specifications
 
 | Device                  | Xiaomi Redmi Note 5 Pro                                      |
