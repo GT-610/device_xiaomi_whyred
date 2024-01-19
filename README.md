@@ -1,3 +1,10 @@
+# Discontinue notice
+My own Redmi Note 5 Pro broke down :(
+
+So sorry, I can't maintain this anymore :(
+
+This repo will be archived.
+
 ![Xiaomi Redmi Note 5 Pro](https://raw.githubusercontent.com/datnerdguy/assets/main/whyred-poster.png)
 
 The Redmi Note 5 Pro (codenamed _"whyred"_) are high-end mid-range smartphones from Xiaomi announced and released in March 2018.
